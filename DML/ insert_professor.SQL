@@ -1,0 +1,1 @@
+INSERT INTO professor (ID, Descricao, Nome) VALUES (1, "SUPORTE TÉCNICO", "Welton");
